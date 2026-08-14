@@ -1,0 +1,10 @@
+{
+  "app": "LexiLink",
+  "versionName": "0.7.6.1",
+  "versionCode": 61,
+  "packageName": "com.lexilink.app",
+  "minAndroid": "8.0",
+  "apk": "https://github.com/2449225245-glitch/lexilink-download/releases/download/v0.7.6.1/LexiLink-v0.7.6.1.apk",
+  "zip": "https://github.com/2449225245-glitch/lexilink-download/releases/download/v0.7.6.1/LexiLink-v0.7.6.1.zip",
+  "sha256": "bb4a6fe4fbeb755eec5ca198a44ac1d09ff08c590b8e5213056cf6d4c182ef60"
+}
