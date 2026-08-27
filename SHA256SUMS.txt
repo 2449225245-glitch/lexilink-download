@@ -1,1 +1,1 @@
-bb4a6fe4fbeb755eec5ca198a44ac1d09ff08c590b8e5213056cf6d4c182ef60  LexiLink-v0.7.6.1.apk
+288b85d7ed7973bbe661221cddddfa7ab83c44f593d1c49d9880a9709b201cde  LexiLink-v1.0.0.apk
