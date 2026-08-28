@@ -1,12 +1,12 @@
 {
   "app": "LexiLink",
-  "versionName": "1.0.17",
-  "versionCode": 138,
+  "versionName": "1.0.18",
+  "versionCode": 139,
   "packageName": "com.lexilink.app",
   "minAndroid": "8.0",
   "apkSizeMb": "206",
-  "apk": "https://github.com/2449225245-glitch/lexilink-download/releases/download/v1.0.17/LexiLink.apk",
-  "sha256File": "https://github.com/2449225245-glitch/lexilink-download/releases/download/v1.0.17/SHA256SUMS.txt",
-  "sha256": "6d48572b7255a42dcd2fc6c2213f6725a9e1c71b8cb3ae73a8afb8a3aa4c7f5f",
-  "sourceCommit": "880d807827b45701ac373db3bf565021326e0331"
+  "apk": "https://github.com/2449225245-glitch/lexilink-download/releases/download/v1.0.18/LexiLink.apk",
+  "sha256File": "https://github.com/2449225245-glitch/lexilink-download/releases/download/v1.0.18/SHA256SUMS.txt",
+  "sha256": "ce590c0e0cc9eda6c3dc274a92cdde3fd2e6e35e3c87e377cdbb2e196f06f219",
+  "sourceCommit": "a5f4c6d3bd6b5fd9ac0ccd4243131621aabb4ed1"
 }
